@@ -16,5 +16,5 @@ A call center dataset from 'Real World Fake Data' is included in this repository
 5. The Los Angeles Call Centre received the highest amount of traffic (13,734).
 6. The majority of response times were within SLA.
 7. Most calls were due to billing questions.
-8. The highest call count was on 21st October
+8. The highest call count was on 21st October.
 9. Despite timely responses, most callers' sentiments were negative
