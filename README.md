@@ -1,9 +1,9 @@
 # Call-Center-Data-Analysis
 A call center dataset from 'Real World Fake Data' is included in this repository for exploratory data analysis (EDA). Through the use of pivot tables and visualization techniques, insights and trends can be derived from the dataset.
 
-Tool Used: MS Excel
+*Tool Used: MS Excel*
 
-Data: [Real World Fake Data](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Call+Center.csv)
+*Data: [Real World Fake Data](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Call+Center.csv)*
   
 
 **Cleanup and formatting of the data were completed. A visual representation of the analysis insights was created using slicers and different charts in an interactive Excel dashboard.**
